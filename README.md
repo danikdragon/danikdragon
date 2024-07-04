@@ -1,6 +1,6 @@
 __Попов Даниил Леонидович__ 20 лет
 
-# Стек знаний:
+# Стек технологий:
 - Языки программирования:
 
   [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,qt,unreal)](https://skillicons.dev)
@@ -13,7 +13,7 @@ __Попов Даниил Леонидович__ 20 лет
 
   [![My Skills](https://skillicons.dev/icons?i=qt,clion,visualstudio,vscode)](https://skillicons.dev)
 
-# Стек технологий:
+# Стек знаний:
 - Работа с файлами
 - Потоки
 - chrono
