@@ -12,4 +12,4 @@
 
 Ide
 
-[![My Skills](https://skillicons.dev/icons?i=qt,visualstudio,visualstudiocode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=qt,visualstudio,vscode)](https://skillicons.dev)
