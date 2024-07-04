@@ -7,3 +7,5 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,github,qt,visualstudio,)](https://skillicons.dev)
 
 Так же изучал
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev)
