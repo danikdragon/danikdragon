@@ -8,4 +8,4 @@
 
 Так же изучал
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,sql,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,cs)](https://skillicons.dev)
