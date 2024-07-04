@@ -4,8 +4,12 @@
 
 языки программирования
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,github,qt,visualstudio,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,qt,visualstudio,)](https://skillicons.dev)
 
 Так же изучал
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,cs,github)](https://skillicons.dev)
+
+Ide
+
+[![My Skills](https://skillicons.dev/icons?i=qt,visualstudio,visualstudiocode)](https://skillicons.dev)
