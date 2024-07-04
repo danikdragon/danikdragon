@@ -1,7 +1,7 @@
 Попов Даниил Леонидович 20 лет
 
-#Стек знаний:
-Языки программирования:
+# Стек знаний:
+## Языки программирования:
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,qt,visualstudio,)](https://skillicons.dev)
 
