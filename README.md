@@ -2,6 +2,7 @@
 
 Стек знаний
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+языки программирования
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,github,qt,visualstudio,)](https://skillicons.dev)
 
 Так же изучал
