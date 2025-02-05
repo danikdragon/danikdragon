@@ -8,17 +8,17 @@ __Попов Даниил Леонидович__ 20 лет
 # Стек технологий:
 - Языки программирования:
 
-  [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,qt,unreal)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,qt,unreal,html,css,js,php,mysql)](https://skillicons.dev)
 
 - Так же изучал
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,cs,unity,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,unity,github)](https://skillicons.dev)
 
 - Ide
 
   [![My Skills](https://skillicons.dev/icons?i=qt,clion,visualstudio,vscode)](https://skillicons.dev)
 
-# Стек знаний:
+# Стек знаний C++:
 - Работа с файлами
 - Потоки
 - chrono
@@ -30,8 +30,16 @@ __Попов Даниил Леонидович__ 20 лет
 - Списки
 - Оценка алгоритмов по системе Big O
 - Шаблоны
+
+# Стек знаний UE5:
+- PaperZD/Paped2d
+- Behavior Tree
+- Работа с анимациями flipbook
+- Работа с скриптами в анимациях
   
 # Проекты:
+
+GreenLine Shop - сайт по купле продаже видеокарт, имеется регистрация, вход создания карточек, разные проверки на валидность данных, проект создан с использованием js html css php mysql
 
 Warehousing - проект по учету товаров на складе, первый мой большой проект, он не идеален и требует переработки кода, базу данных Data пришлось писать второпях, требует переработки так же дизайн писал свой без использования специальных либ, это тоже стоит исправить, но я этим проектом со всеми его минусами горжусь
 
