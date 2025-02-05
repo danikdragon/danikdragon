@@ -35,7 +35,7 @@ __Попов Даниил Леонидович__ 21 год
 - PaperZD/Paped2d
 - Behavior Tree
 - Работа с анимациями flipbook
-- Работа с скриптами в анимациях
+- Notify/Notify State
 - Интерфейсы hud игрока, widget blueprint
   
 # Проекты:
