@@ -31,14 +31,14 @@ __Попов Даниил Леонидович__ 21 год
 - Оценка алгоритмов по системе Big O
 - Шаблоны
 
-# Стек знаний UE5:
+# Стек знаний UE5: опыт - 6 месяцев
 - PaperZD/Paped2d
 - Behavior Tree
 - Работа с анимациями flipbook
 - Notify/Notify State
 - Интерфейсы hud игрока, widget blueprint
 
-# Стек знаний PHP:
+# Стек знаний PHP: опыт - 2 месяца
 - Jet line 7
 - Bootstrap
 - CKEditor 5
