@@ -37,7 +37,13 @@ __Попов Даниил Леонидович__ 21 год
 - Работа с анимациями flipbook
 - Notify/Notify State
 - Интерфейсы hud игрока, widget blueprint
-  
+
+# Стек знаний PHP:
+- Jet line 7
+- Bootstrap
+- CKEditor 5
+- SqlMyAdmin
+
 # Проекты:
 
 GreenLine Shop - сайт по купле продаже видеокарт, имеется регистрация, вход создания карточек, разные проверки на валидность данных, проект создан с использованием js html css php mysql
