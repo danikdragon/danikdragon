@@ -38,7 +38,7 @@ __Попов Даниил Леонидович__ 21 год
 - Notify/Notify State
 - Интерфейсы hud игрока, widget blueprint
 
-# Стек знаний PHP: опыт - 3 месяца удалённо
+# Стек знаний PHP: удалённо
 - Jet line 7
 - Bootstrap
 - CKEditor 5
