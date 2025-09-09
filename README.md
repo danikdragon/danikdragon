@@ -13,11 +13,11 @@ __Попов Даниил Леонидович__ 21 год
 
 - Так же изучал
 
-  [![My Skills](https://skillicons.dev/icons?i=cs,unity,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
 
-- Ide
+- Софт
 
-  [![My Skills](https://skillicons.dev/icons?i=qt,clion,visualstudio,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=qt,clion,visualstudio,vscode,github)](https://skillicons.dev)
   
 # Стек знаний PHP: удалённо
 - Laravel
