@@ -9,7 +9,7 @@ __Попов Даниил Леонидович__ 21 год
 
 - Языки программирования | фреймворки:
 
-  [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,react,qt,unreal,html,css,js,php,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,php,mysql,cpp,cmake,qt,unreal)](https://skillicons.dev)
 
 - Так же изучал
 
