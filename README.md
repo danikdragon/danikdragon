@@ -6,9 +6,10 @@ __Попов Даниил Леонидович__ 21 год
 
 Основной язык это С++ и UE5, но так же могу и веб разработкой заниматься
 # Стек технологий:
-- Языки программирования:
 
-  [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,qt,unreal,html,css,js,php,mysql)](https://skillicons.dev)
+- Языки программирования | фреймворки:
+
+  [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,react,qt,unreal,html,css,js,php,mysql)](https://skillicons.dev)
 
 - Так же изучал
 
