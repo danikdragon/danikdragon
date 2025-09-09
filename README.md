@@ -7,7 +7,7 @@ __Попов Даниил Леонидович__ 21 год
 
 # Стек технологий:
 
-- Языки программирования | фреймворки:
+- Основной стек знаний:
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,php,laravel,mysql,cpp,cmake,qt,unreal)](https://skillicons.dev)
 
