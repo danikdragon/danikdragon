@@ -20,7 +20,7 @@ __Попов Даниил Леонидович__ 21 год
   [![My Skills](https://skillicons.dev/icons?i=qt,clion,visualstudio,vscode,github)](https://skillicons.dev)
   
 # Стек знаний PHP: удалённо
-- Laravel
+- Postman
 - Swagger
 - React
 - Html
@@ -46,6 +46,7 @@ __Попов Даниил Леонидович__ 21 год
 - chrono
 - nlohmanm
 - cpr
+- curl
 - qml
 - Указатели / Умные указатели
 - ООП
