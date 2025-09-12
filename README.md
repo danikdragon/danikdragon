@@ -9,7 +9,7 @@ __Попов Даниил Леонидович__ 21 год
 
 - Основной стек знаний:
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,php,laravel,mysql,cpp,cmake,qt,unreal)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,php,mysql,cpp,cmake,qt,unreal)](https://skillicons.dev)
 
 - Так же изучал
 
